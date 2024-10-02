@@ -6,7 +6,7 @@ import pandas as pd  # Importa pandas para manejar el archivo Excel
 import json  # Importa json para manejar respuestas JSON
 
 # Configura tu clave de API de OpenAI
-openai.api_key = ("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")
+openai.api_key = ("OPEAN AI KEY")
 if not openai.api_key:
     raise ValueError("OPENAI_API_KEY is not set in the environment variables.")
 
